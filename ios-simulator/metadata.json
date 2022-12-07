@@ -1,0 +1,13 @@
+{
+  "alfredworkflow" : {
+    "category" : "Tools",
+    "readme" : "Open IOS Simulator\n\n\nWorkflow to open the fllowing device simulator\n\n- Iphone SE\n- Iphone 14 Pro Max",
+    "createdby" : "KY",
+    "downloadurl" : "",
+    "version" : "1",
+    "bundleid" : "",
+    "description" : "Open IOS Simulator",
+    "name" : "IOS Simulator",
+    "webaddress" : ""
+  }
+}
